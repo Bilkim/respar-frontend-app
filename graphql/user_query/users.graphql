@@ -1,0 +1,9 @@
+query Usersquery{
+  users{
+    userId
+    email
+    firstName
+    lastName
+    nationality
+  }
+}
